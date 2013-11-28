@@ -1,0 +1,19 @@
+<package>
+  <name>console_bridge</name>
+  <version>0.1.0</version>
+  <description>
+    console_bridge.
+  </description>
+  <maintainer email="mshah@willowgarage.com">Mirza Shah</maintainer>
+  <maintainer email="isucan@willowgarage.com">Ioan Sucan</maintainer>
+  <license>BSD</license>
+
+  <url>http://www.ros.org/wiki/console_bridge</url>
+  <author>Ioan Sucan</author>
+
+  <buildtool_depend version_gte="0.5.68">catkin</buildtool_depend>
+
+  <build_depend>boost</build_depend>
+
+  <run_depend>boost</run_depend>
+</package>
